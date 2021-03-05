@@ -7,11 +7,11 @@
 <p>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Computador Luan Jesus" style="max-width:100%;"></a>
 <ul>
-<li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> &nbsp; I’m currently working on <a href="https://portal.sulamericaseguros.com.br/home.htm">SulAmérica</a></li>
-<li><g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji> &nbsp; Studying React at <a href="https://rocketseat.com.br/">Rocketseat</a>🚀</li>
-<li><g-emoji class="g-emoji" alias="blue_book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d8.png">📘</g-emoji> &nbsp;  Learning more about React, Node.JS and Next.JS.</li>
-<li><g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> &nbsp; Learn new things | Series | Movies | Animes</li>
-<li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun fact: I laugh like a pig <g-emoji class="g-emoji" alias="stuck_out_tongue_winking_eye" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f61c.png">😜🐷</g-emoji></li>
+<li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji>&nbsp;I’m currently working on <a href="https://portal.sulamericaseguros.com.br/home.htm">SulAmérica</a></li>
+<li><g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji>&nbsp;Studying React at <a href="https://rocketseat.com.br/">Rocketseat</a>🚀</li>
+<li><g-emoji class="g-emoji" alias="blue_book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d8.png">📘</g-emoji>&nbsp; Learning more about React, Node.JS and Next.JS.</li>
+<li><g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji>&nbsp;Learn new things | Series | Movies | Animes</li>
+<li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>&nbsp;Fun fact: I laugh like a pig <g-emoji class="g-emoji" alias="stuck_out_tongue_winking_eye" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f61c.png">😜🐷</g-emoji></li>
 </ul>
 </p>
 
