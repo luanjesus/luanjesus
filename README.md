@@ -1,7 +1,22 @@
-<!-- Dinamics datas-->
 ![](https://visitor-badge.laobi.icu/badge?page_id=luanjesus.luanjesus)
 [![Github](https://img.shields.io/github/followers/luanjesus?label=Follow&style=social)](https://github.com/luanjesus)
-
+<p>
+  <a href="https://arendaextra.com.br/" rel="nofollow"><img
+      src="https://camo.githubusercontent.com/237c018401ffb5111b2c1c028a62393d408cb08e2cd3a5482adb2d4a2a368acb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d576562536974652d3030383046463f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d303038304646266c6f676f3d676f6f676c652d6368726f6d65266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7a657664766c70722e6d6c"
+      alt="Github Badge"
+      data-canonical-src="https://img.shields.io/badge/-WebSite-0080FF?style=flat-square&amp;labelColor=0080FF&amp;logo=google-chrome&amp;logoColor=white&amp;link=https://zevdvlpr.ml"
+      style="max-width:100%;"></a>
+  <a href="https://www.linkedin.com/in/luanjesus/" rel="nofollow"><img
+      src="https://camo.githubusercontent.com/6a1232bfbde3dcf3339b2cae9ff4069e08ea02b6282794726997e224d699d593/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d3030383046463f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d303038304646266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f7a657664766c70722f"
+      alt="Linkedin Badge"
+      data-canonical-src="https://img.shields.io/badge/-Linkedin-0080FF?style=flat-square&amp;labelColor=0080FF&amp;logo=linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/zevdvlpr/"
+      style="max-width:100%;"></a>
+  <a href="https://github.com/luanjesus"><img
+      src="https://camo.githubusercontent.com/eed2cd0d7e1c50a60285dccbb1eff6062e39a44f9e6aaa22e780d206159d615b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3030383046463f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d303038304646266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f6769746875622e636f6d2f7a657664766c7072"
+      alt="Website Badge"
+      data-canonical-src="https://img.shields.io/badge/-Github-0080FF?style=flat-square&amp;labelColor=0080FF&amp;logo=Github&amp;logoColor=white&amp;link=https://github.com/zevdvlpr"
+      style="max-width:100%;"></a>
+</p>
 <h1 align="center"><a id="user-content-hi-dear--im-mayk-brito" class="anchor" aria-hidden="true"
         href="#hi-dear--im-mayk-brito"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16"
             height="16" aria-hidden="true">
@@ -20,6 +35,7 @@
                 d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z">
             </path>
         </svg></a>A Software Engineer and CCM Analyst who loves Web Development.</h3>
+        
 <p>
     <a target="_blank" rel="noopener noreferrer"
         href="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"><img
@@ -110,4 +126,5 @@
 <!-- Dinamics datas-->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=luanjesus&show_icons=true&theme=dracula )
+</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanjesus&theme=dracula )
