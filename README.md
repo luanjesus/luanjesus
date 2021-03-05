@@ -11,9 +11,7 @@
 <li><g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji> &nbsp; Studying React at <a href="https://rocketseat.com.br/">Rocketseat</a>🚀</li>
 <li><g-emoji class="g-emoji" alias="blue_book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d8.png">📘</g-emoji> &nbsp; Learning more about React, Node.JS and Next.JS.</li>
 <li><g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> &nbsp; Learn new things | Series | Movies | Animes</li>
-<li>
-<p><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun fact: I laugh like a pig <g-emoji class="g-emoji" alias="stuck_out_tongue_winking_eye" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f61c.png">😜🐷</g-emoji></p>
-</li>
+<li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun fact: I laugh like a pig <g-emoji class="g-emoji" alias="stuck_out_tongue_winking_eye" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f61c.png">😜🐷</g-emoji></li>
 </ul>
 <p align="left">
   <g-emoji class="g-emoji" alias="unicorn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f984.png">🦄</g-emoji> Skills: <strong>Quadient/GMC Technologies, Javascript, HTML, CSS, SQL. / Typescript</strong>
@@ -23,5 +21,5 @@
 </p></p>
 
 <!-- Dinamics datas-->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanjesus&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luanjesus&show_icons=true&theme=dracula )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanjesus&theme=dracula )
