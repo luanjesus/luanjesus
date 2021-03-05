@@ -5,7 +5,7 @@
 <p><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on <a href="https://portal.sulamericaseguros.com.br/home.htm">SulAmérica</a></p>
 </li>
 <li>
-<p><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> I’m currently learning React.JS, React Native, Node.JS and Next.JS...</p>
+<p><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> I’m currently learning <strong>React.JS, React Native, Node.JS and Next.JS</strong></p>
 </li>
 <li>
 <p><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about <strong>Quadient/GMC Technologies, JavaScript, HTML, CSS, SQL</strong></p>
