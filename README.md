@@ -125,6 +125,6 @@
 
 <!-- Dinamics datas-->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=luanjesus&show_icons=true&theme=dracula )
+[![luanjesus GitHub stats](https://github-readme-stats.vercel.app/api?username=luanjesus&show_icons=true&theme=cobalt)](https://github.com/luanjesus/github-readme-stats)
 </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanjesus&theme=dracula )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanjesus&layout=compact&show_icons=true&theme=cobalt)](https://github.com/luanjesus/github-readme-stats)
